@@ -1,3 +1,7 @@
+"""
+在Raspberry Pi OS中使用gpiozero库控制的代码
+具体环境搭建参看树莓派5学习手册文档
+"""
 from block import RGB_LED
 
 rgb_led = RGB_LED()
